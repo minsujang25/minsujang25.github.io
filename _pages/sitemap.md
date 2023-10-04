@@ -5,10 +5,18 @@ permalink: /sitemap/
 author_profile: true
 ---
 
-{% include base_path %}
 
-<h2>Pages</h2>
-{% for post in site.pages %}
-  {% include archive-single.html %}
-{% endfor %}
+[About Me](https://minsujang25.github.io)
 
+
+
+
+[Research](https://minsujang25.github.io/research/)
+
+
+
+[Curriculum Vitae](https://minsujang25.github.io/cv/)
+
+
+
+[Teaching Experience](https://minsujang25.github.io/teaching/)
