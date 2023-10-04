@@ -19,7 +19,7 @@ Work experience
 ======
 * Summer 2021 - present: Research Associate
   * Pitt Disinformation Lab, University of Pittsburgh
-  * Duties included: Theory building with Agent-based modeling, Scrapping unstructured data
+  * Duties included: Theory building with Agent-based modeling, Scrapping unstructured data from social media, Visualize Geo-Spatial data
   
 * Fall 2020: Analytical Teaching Assistant
   * University of Pittsburgh
