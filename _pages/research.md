@@ -13,7 +13,7 @@ Dissertation
 
 Peer-reviewed Journal Articles
 ======
-Woon, Jonathan, Minsu Jang, Kira Pronin, & Jacob Schiller. 2023. &quot;Discussion and Fairness in a Laboratory Voting Experiment.&quot;  <i>Journal of Experimental Political Science</i>, 1-13. doi:10.1017/XPS.2023.29 [Link](http://academicpages.github.io/files/paper1.pdf](https://www.cambridge.org/core/journals/journal-of-experimental-political-science/article/discussion-and-fairness-in-a-laboratory-voting-experiment/ADC9E52185B5E066E800E4B4B75521F6)https://www.cambridge.org/core/journals/journal-of-experimental-political-science/article/discussion-and-fairness-in-a-laboratory-voting-experiment/ADC9E52185B5E066E800E4B4B75521F6)
+Woon, Jonathan, Minsu Jang, Kira Pronin, & Jacob Schiller. 2023. &quot;Discussion and Fairness in a Laboratory Voting Experiment.&quot;  <i>Journal of Experimental Political Science</i>, 1-13. doi:10.1017/XPS.2023.29 [Link](https://www.cambridge.org/core/journals/journal-of-experimental-political-science/article/discussion-and-fairness-in-a-laboratory-voting-experiment/ADC9E52185B5E066E800E4B4B75521F6)
 
 
 Book Chapter
