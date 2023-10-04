@@ -8,7 +8,7 @@ author_profile: true
 
 Dissertation
 ======
-<i> Source Credibility, Social Network, and Political Belief Learning: Three Essays on Source Credibility and Political Learning </i>
+<b> <i> Source Credibility, Social Network, and Political Belief Learning: Three Essays on Source Credibility and Political Learning </i> </b>
 
 
 Peer-reviewed Journal Articles
