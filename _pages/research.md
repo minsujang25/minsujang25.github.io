@@ -11,17 +11,20 @@ Dissertation
 =====	
 <b> <i> Source Credibility, Social Network, and Political Belief Learning: Three Essays on Source Credibility and Political Learning </i> </b>
 
+<br>
 
 Peer-reviewed Journal Articles
 =====	
 Woon, Jonathan, Minsu Jang, Kira Pronin, & Jacob Schiller. 2023. &quot;Discussion and Fairness in a Laboratory Voting Experiment.&quot;  <i>Journal of Experimental Political Science</i>, 1-13. doi:10.1017/XPS.2023.29 [Link](https://www.cambridge.org/core/journals/journal-of-experimental-political-science/article/discussion-and-fairness-in-a-laboratory-voting-experiment/ADC9E52185B5E066E800E4B4B75521F6)
 
+<br>
 
 Book Chapter
 =====	
 Park, Myungho, Minsu Jang, Seonah Jeong, and Chanhee Yook. 2015. &quot;Issue Voting: The Introduction and Development of VAAs in Korea&quot;  in <i> Political Behavior and Technology: Voting Advice Applications in East Asia </i> edited by Da-chi Liao, Boyu Chen, and Michael J. Jensen. Palgrave Macmillan, NY: NY.
 
 
+<br>
 
 Working Paper
 =====	
@@ -34,5 +37,6 @@ Working Paper
 &quot;Exploring North Korea's Strategic Translation of Political Messaging.&quot; (with Kevin Greene and Junghyun Lim) 
 
 
+<br>
 
 You can also find my articles on my [Google Scholar profile.](https://scholar.google.com/citations?user=fPGfxz0AAAAJ&hl=en&authuser=1)
