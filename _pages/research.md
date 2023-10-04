@@ -28,7 +28,7 @@ Working Paper
 
 &quot;Gender Stereotypes 25 Years Later: A Replication of Huddy and Terkildsen.&quot; (with Kristin Kanthak, David McCoy, Max Peterson, Jacob Schiller)
 
-&quot;Nudging Poll Workers: A Field Experiment during the 2020 Peruvian Congressional Election&quot; (with Jos\'e Incio and Jacob Schiller) 
+&quot;Nudging Poll Workers: A Field Experiment during the 2020 Peruvian Congressional Election&quot; (with Jose Incio and Jacob Schiller) 
 
 &quot;Exploring North Korea's Strategic Translation of Political Messaging.&quot; (with Kevin Greene and Junghyun Lim) 
 
