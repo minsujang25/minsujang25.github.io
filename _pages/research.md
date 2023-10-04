@@ -6,13 +6,33 @@ author_profile: true
 ---
 
 
+Dissertation
+======
+Source Credibility, Social Network, and Political Belief Learning: Three Essays on Source Credibility and Political Learning
+
+
+Peer-reviewed Journal Articles
+======
+Woon, Jonathan, Minsu Jang, Kira Pronin, & Jacob Schiller. 2023. ``Discussion and Fairness in a Laboratory Voting Experiment.'' <i>Journal of Experimental Political Science</i>, 1-13. doi:10.1017/XPS.2023.29 [Download paper here]([http://academicpages.github.io/files/paper1.pdf](https://www.cambridge.org/core/journals/journal-of-experimental-political-science/article/discussion-and-fairness-in-a-laboratory-voting-experiment/ADC9E52185B5E066E800E4B4B75521F6)https://www.cambridge.org/core/journals/journal-of-experimental-political-science/article/discussion-and-fairness-in-a-laboratory-voting-experiment/ADC9E52185B5E066E800E4B4B75521F6)
+
+
+Book Chapter
+======
+Park, Myungho, Minsu Jang, Seonah Jeong, and Chanhee Yook. 2015. ``Issue Voting: The Introduction and Development of VAAs in Korea'' in \emph{Political Behavior and Technology: Voting Advice Applications in East Asia} edited by Da-chi Liao, Boyu Chen, and Michael J. Jensen. Palgrave Macmillan, NY: NY.
+
+
+
+Working Paper
+======
+``Why We Need Computational Microscopes: Different Views of Multiplex, Geo-referenced Information Ecosystems from Southwestern Pennsylvania with Applications to Black Lives Matter Protests, Vaccine Misinformation, and Claims of Election Fraud.'' (with Michael Colaresi and Bree Bang-Jensen) 
+
+``Gender Stereotypes'' 25 Years Later: A Replication of Huddy and Terkildsen. (with Kristin Kanthak, David McCoy, Max Peterson, Jacob Schiller)
+
+``Nudging Poll Workers: A Field Experiment during the 2020 Peruvian Congressional Election'' (with Jos\'e Incio and Jacob Schiller) 
+
+``Exploring North Korea's Strategic Translation of Political Messaging.'' (with Kevin Greene and Junghyun Lim) 
+
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
