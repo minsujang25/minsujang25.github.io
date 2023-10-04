@@ -26,7 +26,7 @@ Park, Myungho, Minsu Jang, Seonah Jeong, and Chanhee Yook. 2015. &quot;Issue Vot
 
 <br>
 
-Working Paper
+Working Papers
 =====	
 &quot;Why We Need Computational Microscopes: Different Views of Multiplex, Geo-referenced Information Ecosystems from Southwestern Pennsylvania with Applications to Black Lives Matter Protests, Vaccine Misinformation, and Claims of Election Fraud.&quot; (with Michael Colaresi and Bree Bang-Jensen) 
 
