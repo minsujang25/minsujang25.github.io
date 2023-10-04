@@ -11,49 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Political Science, Dongguk University, Seoul, South Korea, 2011
+* M.A. in Political Science, Dongguk University, Seoul, South Korea, 2016
+* Ph.D in Political Scinece, University of Pittsburgh, Pittsburgh, PA, 2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2021 - present: Research Associate
+  * Pitt Disinformation Lab, University of Pittsburgh
+  * Duties included: Theory building with Agent-based modeling, Scrapping unstructured data
+  
+* Fall 2020: Analytical Teaching Assistant
+  * University of Pittsburgh
+  * Course: Political Attitudes and Public Opinion / Race, Gender, and Politics
+  * Supervisor: Vitoria Shineman / Tessa Provins
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2019: Visiting Research Associate
+  * TheOneTech, Seoul, South Korea
+  * Duties included: Developing machine learning models for emergency events prediction.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Computer Skills: Python, R, Stata, git, z-tree, Qualtrics, mySQL, Shiny, Stan, JAGS
+* Language Skills: Korean (native), English (fluent)
   
-Talks
+Trainings
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* ICPSR Summer Program in Quantitative Methods of Social Research, University of Michigan, 2017
+  * Bayesian Statistics; Measurement, Scaling, and Dimensional Analysis; Causal Inference
