@@ -32,3 +32,6 @@ Working Paper
 
 &quot;Exploring North Korea's Strategic Translation of Political Messaging.&quot; (with Kevin Greene and Junghyun Lim) 
 
+
+
+You can also find my articles on my [Google Scholar profile.](https://scholar.google.com/citations?user=fPGfxz0AAAAJ&hl=en&authuser=1)
