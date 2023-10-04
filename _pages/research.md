@@ -8,7 +8,7 @@ author_profile: true
 
 Dissertation
 ======
-Source Credibility, Social Network, and Political Belief Learning: Three Essays on Source Credibility and Political Learning
+<i> Source Credibility, Social Network, and Political Belief Learning: Three Essays on Source Credibility and Political Learning </i>
 
 
 Peer-reviewed Journal Articles
@@ -18,7 +18,7 @@ Woon, Jonathan, Minsu Jang, Kira Pronin, & Jacob Schiller. 2023. ``Discussion an
 
 Book Chapter
 ======
-Park, Myungho, Minsu Jang, Seonah Jeong, and Chanhee Yook. 2015. ``Issue Voting: The Introduction and Development of VAAs in Korea'' in \emph{Political Behavior and Technology: Voting Advice Applications in East Asia} edited by Da-chi Liao, Boyu Chen, and Michael J. Jensen. Palgrave Macmillan, NY: NY.
+Park, Myungho, Minsu Jang, Seonah Jeong, and Chanhee Yook. 2015. ``Issue Voting: The Introduction and Development of VAAs in Korea'' in <i> Political Behavior and Technology: Voting Advice Applications in East Asia </i> edited by Da-chi Liao, Boyu Chen, and Michael J. Jensen. Palgrave Macmillan, NY: NY.
 
 
 
