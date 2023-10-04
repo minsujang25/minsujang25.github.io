@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 <br>
-<br>
 
 Dissertation
 =====	
