@@ -40,3 +40,5 @@ Trainings
 ======
 * ICPSR Summer Program in Quantitative Methods of Social Research, University of Michigan, 2017
   * Bayesian Statistics; Measurement, Scaling, and Dimensional Analysis; Causal Inference
+
+* Big-data Analysis Winter School, Statistical Research Institute, Seoul National University, 2015
