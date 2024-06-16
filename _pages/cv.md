@@ -18,8 +18,8 @@ Education
 
 Work experience
 ======
-* Summer 2021 - Summer 2024: Postdoctoral Research Fellow
-  * ConsNet Project, University of Milano-Bicocca \& University of Milan
+* **July 2024 - Present: Postdoctoral Research Fellow**
+  * *ConsNet* Project, University of Milano-Bicocca & University of Milan
 
 * Summer 2021 - Summer 2024: Research Associate
   * Pitt Disinformation Lab, University of Pittsburgh
