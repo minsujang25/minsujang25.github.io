@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.A. in Political Science, Dongguk University, Seoul, South Korea, 2011
-* M.A. in Political Science, Dongguk University, Seoul, South Korea, 2016
-* M.A. in Political Science, University of Pittsburgh, Pittsburgh, PA, 2018
 * Ph.D in Political Scinece, University of Pittsburgh, Pittsburgh, PA, 2024 
+* M.A. in Political Science, University of Pittsburgh, Pittsburgh, PA, 2018
+* M.A. in Political Science, Dongguk University, Seoul, South Korea, 2016
+* B.A. in Political Science, Dongguk University, Seoul, South Korea, 2011
 
 Work experience
 ======
