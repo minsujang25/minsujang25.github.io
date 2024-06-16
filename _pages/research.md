@@ -9,7 +9,9 @@ author_profile: true
 
 Dissertation
 =====	
-<b> <i> Source Credibility, Social Network, and Political Belief Learning: Three Essays on Source Credibility and Political Learning </i> </b>
+<b> <i> Computational Models of Political Learning and Belief Polarization: From Individuals through Social Networks to Disruptive Systems </i> </b>
+
+This project examines the dynamic interplay of information dissemination, belief formation, and social interactions within the political communication landscape of the new digital media environment, particularly focusing on social media. Employing agent-based modeling, this research explores how cognitive biases, social network structures, and misinformation influence political belief formation in digital environments. Structured into four essays, the study begins with a theoretical and methodological foundation, followed by three modeling essays that investigate the impact of cognitive biases on information credibility, the influence of social network interactions on belief formation and consensus, and the effects of disinformation on social learning. Key findings reveal that while cognitive biases shape information credibility assessments, robust and diverse social interactions can mitigate misleading information and facilitate social consensus. The dissertation contributes to political communication and computational social science by demonstrating how agent-based simulations provide nuanced insights into the interactions between individual behaviors and network effects, offering practical implications for countering misinformation and enhancing public discourse resilience in the digital age.
 
 <br>
 
