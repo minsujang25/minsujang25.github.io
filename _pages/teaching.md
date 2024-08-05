@@ -9,9 +9,6 @@ Teaching Assistant
 ======
 * Introduction to American Politics (PS 0200, Undergraduate), University of Pittsburgh
   * Spring 2019, Fall 2021, Spring 2022
-* Quantitative Research Methodology (Graduate), Seoul National University
-  * Spring 2015
-
 
 Analytical Teaching Assistant
 ======
