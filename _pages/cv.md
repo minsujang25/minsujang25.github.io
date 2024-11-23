@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-* **July 2024 - Present: Postdoctoral Research Fellow**
+* **July 2024 - Present: Postdoctoral Researcher**
   * *ConsNet* Project, University of Milano-Bicocca & University of Milan
 
 * Summer 2021 - Summer 2024: Research Associate
