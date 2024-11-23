@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral research fellow within the *ConsNet* project at the Department of Statistics and Quantitative Methods, University of Milano-Bicocca, and at the BehaveLab, University of Milan. *ConsNet* is an inter-university project that studies conspiracy beliefs, their social network determinants (both online and offline), and their impacts on public behavior concerning health-related issues. My research interests lie at the intersection of scientific modeling of political information processing and political behavior.
+I am a postdoctoral researcher within the *ConsNet* project at the Department of Statistics and Quantitative Methods, University of Milano-Bicocca, and at the BehaveLab, University of Milan. *ConsNet* is an inter-university project that studies conspiracy beliefs, their social network determinants (both online and offline), and their impacts on public behavior concerning health-related issues. My research interests lie at the intersection of scientific modeling of political information processing and political behavior.
 
 My dissertation investigates the impact of cognitive biases on information source credibility assessment and its social consequences, with a particular emphasis on information outlet choice and macro-level political belief distribution. Further, it relates the credibility learning mechanisms with the dissemination of disinformation across social networks and its impact on citizens' political belief formation. Through a sophisticated combination of agent-based modeling and simulation techniques, I unravel the multifaceted interplay between cognitive biases, credibility assessments, social persuasion, and the spread of misleading information.
 
