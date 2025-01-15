@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CS2Italy Presentation"
+title: "CS2Italy Presentation - Adversarial Message Effect (3D Density Plot)"
 permalink: /cs2italypresentation/
 author_profile: true
 ---
