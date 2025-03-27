@@ -17,7 +17,7 @@ This project examines the dynamic interplay of information dissemination, belief
 
 Peer-reviewed Journal Articles
 =====	
-Woon, Jonathan, Minsu Jang, Kira Pronin, & Jacob Schiller. 2023. &quot;Discussion and Fairness in a Laboratory Voting Experiment.&quot;  <i>Journal of Experimental Political Science</i>, 1-13. doi:10.1017/XPS.2023.29 [Link](https://www.cambridge.org/core/journals/journal-of-experimental-political-science/article/discussion-and-fairness-in-a-laboratory-voting-experiment/ADC9E52185B5E066E800E4B4B75521F6)
+Woon, Jonathan, Minsu Jang, Kira Pronin, & Jacob Schiller. 2024. &quot;Discussion and Fairness in a Laboratory Voting Experiment.&quot;  <i>Journal of Experimental Political Science</i>, 11(2): 224-236. doi:10.1017/XPS.2023.29 [Link](https://www.cambridge.org/core/journals/journal-of-experimental-political-science/article/discussion-and-fairness-in-a-laboratory-voting-experiment/ADC9E52185B5E066E800E4B4B75521F6)
 
 <br>
 
