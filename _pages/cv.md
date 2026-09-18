@@ -18,7 +18,10 @@ Education
 
 Work experience
 ======
-* **July 2024 - Present: Postdoctoral Researcher**
+* **January 2026 - Present: Postdoctoral Researcher**
+  * *EuropeanCity^2* Project, Aarhus University
+
+* **July 2024 - December 2025: Postdoctoral Researcher**
   * *ConsNet* Project, University of Milano-Bicocca & University of Milan
 
 * Summer 2021 - Summer 2024: Research Associate
