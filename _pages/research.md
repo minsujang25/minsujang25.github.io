@@ -30,13 +30,15 @@ Park, Myungho, Minsu Jang, Seonah Jeong, and Chanhee Yook. 2015. &quot;Issue Vot
 
 Working Papers
 =====	
-&quot;Why We Need Computational Microscopes: Different Views of Multiplex, Geo-referenced Information Ecosystems from Southwestern Pennsylvania with Applications to Black Lives Matter Protests, Vaccine Misinformation, and Claims of Election Fraud.&quot; (with Michael Colaresi and Bree Bang-Jensen) 
+&quot;Neutral Rules, Unequal Risk: Ballot Provisioning and Election-Day Demand in Seoul’s 2026 Local Elections.&quot; (Under Review) 
 
-&quot;Gender Stereotypes 25 Years Later: A Replication of Huddy and Terkildsen.&quot; (with Kristin Kanthak, David McCoy, Max Peterson, Jacob Schiller)
+&quot;Strategic Disinformation, Adaptive Reliance, and Network Resilience: An Agent-Based Model of Collective Belief Formation.&quot; (Invited for ull-manuscript submission to a *Social Networks* special issue following extended-abstract selection)
 
-&quot;Nudging Poll Workers: A Field Experiment during the 2020 Peruvian Congressional Election&quot; (with Jose Incio and Jacob Schiller) 
+&quot;Learning Whom to Trust: Exploration, Credibility, and Endogenous Political Information Choice.&quot; 
 
-&quot;Exploring North Korea's Strategic Translation of Political Messaging.&quot; (with Kevin Greene and Junghyun Lim) 
+&quot;How Local Issues Structure Electoral Competition: Evidence from a Danish Municipal Election.&quot; (with Nadia Kinga Wójtowicz and Iza Romanowska) 
+
+&quot;The Limited Returns to Stronger Messages: Evidence from a Large-Scale Field Experiment with Poll Workers in Peru&quot; (with Jose Incio and Jacob Schiller) 
 
 
 <br>
