@@ -5,6 +5,12 @@ excerpt: "Teaching"
 author_profile: true
 ---
 
+Workshop Instructor
+======
+* *Doing Computational Social Science with Python and R*, Department of Social and Political Sciences, University of Milan
+  * **Geospatial Data Processing and Visualization** — June 4, 2025
+  * **Introduction to Agent-Based Modeling** — June 5, 2025
+
 Teaching Assistant
 ======
 * Introduction to American Politics (PS 0200, Undergraduate), University of Pittsburgh
