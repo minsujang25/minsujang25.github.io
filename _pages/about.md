@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Researcher at the Social Resilience Lab and the Computational Culture and Complexity Research Collective (CORE) at Aarhus University. My research lies at the intersection of political behavior, computational social science, and the scientific modeling of political information processing.
+I am a Postdoctoral Researcher at the Social Resilience Lab at Aarhus University. My research lies at the intersection of political behavior, computational social science, and the scientific modeling of political information processing.
 
 I study how people learn about politics, evaluate information sources, and form political beliefs in complex and changing information environments. A central focus of my research is how individual-level learning processes—such as credibility assessment, selective information acquisition, and social influence—interact with the structure of information environments to produce collective outcomes such as polarization, misinformation diffusion, and political resilience.
 
